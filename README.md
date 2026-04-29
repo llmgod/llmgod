@@ -26,11 +26,10 @@ foundation  Software Development diploma
 
 > I study **Artificial Intelligence and Machine Learning** at **RTU MIREA** and work with the darker machinery of perception: pixels, features, models, metrics, and systems that learn to see.
 
-- `01` Computer Vision Engineer Intern at **PAO Sberbank**
-- `02` AI & ML student at **RTU MIREA**
-- `03` Software Development diploma from a Computer Academy
-- `04` Interested in **computer vision**, **deep learning**, **backend systems**, and **ML infrastructure**
-- `05` Building projects where models do not stay in notebooks, but become working tools
+- `01` AI & ML student at **RTU MIREA**
+- `02` Software Development diploma from a Computer Academy
+- `03` Interested in **computer vision**, **deep learning**, **backend systems**, and **ML infrastructure**
+- `04` Building projects where models do not stay in notebooks, but become working tools
 
 <img src="./assets/gothic-divider.svg" alt="divider" width="100%" />
 
