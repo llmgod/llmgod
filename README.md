@@ -20,7 +20,6 @@
 alias       llmgod
 path        artificial intelligence / machine learning / computer vision
 university  RTU MIREA
-internship  PAO Sberbank — Computer Vision Engineer
 foundation  Software Development diploma
 ```
 
